@@ -12,7 +12,7 @@ function calculate(){
 }
 	
 	function shouldYou(){
-		if (monthlyCard > 46){
+		if (monthlyCard > 43){
 			alert("Purchase a monthly pass! You're spending too much money.");
 		}
 		else { 
